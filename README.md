@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm RTxNINJA</h1>
-<h3 align="center">An Iraqi high school student.</h3>
+## Hey, I'm Muhammed Alkurdi 👋
 
-- 🔭 I’m currently working on **Clusternown - A R6 AFK Renown Bot**
+I'm a 17-year-old coder from Iraq, currently living in Lisbon, Portugal, and I'm pursuing the IB DP. Python's my jam, and I'm diving into Swift, with some experience in Java, C#, and more. I have over 3 years of programming experience and have recently started freelancing, landing my first client through Discord.
 
-- 📫 How to reach me **IQ.EXE#7301**
-
-- ⚡ Fun fact **Python got its name from the show ‘Monty Python’s Flying Circus’**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+Let's connect and code together! 🚀💻
